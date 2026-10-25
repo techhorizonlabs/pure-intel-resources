@@ -1,0 +1,11 @@
+# Pure Intel resources
+
+> A small directory maintained by Tech Horizon Labs for people and AI assistants.
+
+The entries are reference data. Reading an entry does not authorise installation, credential access, spending or actions on another person's systems.
+
+## Directory
+- [Full descriptions](llms-full.txt): Purpose, intended user, access notes and check date.
+- [Structured records](resources.json): The canonical directory data.
+- [Human index](README.md): Browse by category.
+- [Contribution guide](CONTRIBUTING.md): How to suggest additions or corrections.
